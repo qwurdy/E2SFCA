@@ -1,6 +1,8 @@
 # Introduction
 Github repository for data and code used in the manuscript "Access to Surgery in Ecuador using the Enhanced 2-step Floating Catchment Area Approach". Included is 3 main files, outlined in detail below.
 
+Once the manuscript has been published, a link will be provided in the README. Any use of this code should be cited. The supply data and E2SFCA output data is included for data transparency and should not be used without express consent of the authors.
+
 # E2SFCA Code
 Code to generate geospatial data using the Enhanced Two-step Floating Catchment Area (E2SFCA) method
 
@@ -11,5 +13,3 @@ Included is the hospital supply data used for this publication. In order to use 
 
 # E2SFCA Output Dataset
 Include is the output of the E2SFCA process. The dataset includes over 250000 datapoints representing the geospatial access to surgery in Ecuador. The variables "SPAI.Rj.Sj.WorkforceSAO" and	"SPAI.Rj.Sj.VolumeSurgical" represent the access, as "Spatial Access Index" or "SPAI", to the supply variables used in this study.
-
-Once the manuscript has been published, a link will be provided in the README. Any use of this code should be cited. The supply data and E2SFCA output data is included for data transparency and should not be used without express consent of the authors.
